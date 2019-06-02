@@ -25,7 +25,7 @@ SECRET_KEY = '105&vynu+v%(hoqwt#h)y53+n2rh4u&7&rzt_d1)q&miv@&70$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '0edoc.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'edocsil.pythonanywhere.com']
 
 
 # Application definition
